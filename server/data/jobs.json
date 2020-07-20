@@ -16,5 +16,97 @@
     "companyId": "SJV0-wdOM",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "HykmKmQxv",
+    "companyId": "SJV0-wdOM",
+    "title": "Database Manager",
+    "description": "This database manager sample job description can assist in your creating a job application that will attract job candidates who are qualified for the job. Feel free to revise this job description to meet your specific job duties and job requirements."
+  },
+  {
+    "id": "SJUWsX7xD",
+    "companyId": "HJRa-DOuG",
+    "title": "Database administrators",
+    "description": "Your responsibility as a database administrator (DBA) will be the performance, integrity and security of a database. You'll be involved in the planning and development of the database, as well as in troubleshooting any issues on behalf of the users."
+  },
+  {
+    "id": "Hyl1EEmev",
+    "input": {
+      "companyId": "SJV0-wdOM",
+      "title": "System administrator",
+      "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+    }
+  },
+  {
+    "id": "BkUl4EXlv",
+    "input": {
+      "companyId": "SJV0-wdOM",
+      "title": "System administrator",
+      "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+    }
+  },
+  {
+    "id": "H1aU4VXev",
+    "input": {
+      "companyId": "SJV0-wdOM",
+      "title": "System administrator",
+      "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+    }
+  },
+  {
+    "id": "rJb_4V7ev",
+    "input": {
+      "companyId": "HJRa-DOuG",
+      "title": "System administrator",
+      "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+    }
+  },
+  {
+    "id": "Hyw7HNXxP",
+    "companyId": "HJRa-DOuG",
+    "title": "System administrator",
+    "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+  },
+  {
+    "id": "H12YSV7ew",
+    "companyId": "HJRa-DOuG",
+    "title": "System administrator",
+    "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+  },
+  {
+    "id": "S1H2BVXev",
+    "companyId": "HJRa-DOuG",
+    "title": "System administrator",
+    "description": "A system administrator, or sysadmin, is a person who is responsible for the upkeep, configuration, and reliable operation of computer systems"
+  },
+  {
+    "id": "HJRr5E7xv",
+    "companyId": "HJRa-DOuG",
+    "title": "BIG DATA Manager",
+    "description": "A data scientist is someone who makes value out of data. Such a person proactively fetches information from various sources and analyzes it for better understanding about how the business performs, and to build AI tools that automate certain processes within the company."
+  },
+  {
+    "id": "S1McqEQlP",
+    "companyId": "HJRa-DOuG",
+    "title": "sales representative",
+    "description": "someone whose job is to sell a company’s products, often by traveling to different places"
+  },
+  {
+    "id": "B11pc4XlP",
+    "companyId": "HJRa-DOuG",
+    "title": "Test1",
+    "description": "Test1"
+  },
+  {
+    "id": "rkNW34mev",
+    "companyId": "HJRa-DOuG",
+    "title": "Development Engineer ",
+    "description": "Development Engineers are responsible for designing, creating and testing new products for companies. They work in every industry imaginable, developing products that vary dramatically. One Development Engineer may spend their career creating mechanical toys, while another may create medical devices. They are also referred to as Product Development Engineers. Most Development Engineers have a background in an area such as mechanical engineering or bioengineering."
+  },
+  {
+    "id": "S14unNmew",
+    "companyId": "HJRa-DOuG",
+    "title": "Application Engineer",
+    "description": "Application engineers are engineers hired by companies marketing technical products. The Application engineer help the sales department with customers needing help or advice in applying the company’s products."
   }
 ]
